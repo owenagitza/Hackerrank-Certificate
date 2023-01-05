@@ -4,13 +4,13 @@ This repository contains my portfolio of Hackerrank challenges and certification
 ## Contents
 - ### Python
 
-	- [My Hackerrank Python Challenges Solution](): This notebook lists all of my notes and solution doing all Hackerrank Python Challenges to prepare for its certification.
+	- [My Hackerrank Python Challenges Solution](https://github.com/owenagitza/Hackerrank-Certification/tree/main/Python): This notebook lists all of my notes and solution doing all Hackerrank Python Challenges to prepare for its certification.
 	
 	- [Python Basic Certificate](https://www.hackerrank.com/certificates/iframe/ccbe6e66257e)
 
 - ### SQL
 
-	- [My Hackerrank SQL Challenges Solution](): This notebook lists all of my notes and solution doing all Hackerrank SQL Challenges to prepare for its certification.
+	- [My Hackerrank SQL Challenges Solution](https://github.com/owenagitza/Hackerrank-Certification/tree/main/SQL): This notebook lists all of my notes and solution doing all Hackerrank SQL Challenges to prepare for its certification.
 
 	- [SQL Basic Certificate](https://www.hackerrank.com/certificates/iframe/87fcf91b9480)
 
